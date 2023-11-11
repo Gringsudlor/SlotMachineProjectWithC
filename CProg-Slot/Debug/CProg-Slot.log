@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\Big\Desktop\CProj-Slot\CProg-Slot\CProg-Slot\main.c(14,18): warning C4244:  'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Big\Desktop\CProj-Slot\CProg-Slot\CProg-Slot\main.c(95,1): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Big\Desktop\CProj-Slot\CProg-Slot\CProg-Slot\main.c(96,1): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Big\Desktop\CProj-Slot\CProg-Slot\CProg-Slot\main.c(97,1): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Big\Desktop\CProj-Slot\CProg-Slot\CProg-Slot\main.c(393,1): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Big\Desktop\CProj-Slot\CProg-Slot\CProg-Slot\main.c(394,1): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Big\Desktop\CProj-Slot\CProg-Slot\CProg-Slot\main.c(471,1): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Big\Desktop\CProj-Slot\CProg-Slot\CProg-Slot\main.c(546,1): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Big\Desktop\CProj-Slot\CProg-Slot\CProg-Slot\main.c(547,1): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+  CProg-Slot.vcxproj -> C:\Users\Big\Desktop\CProj-Slot\CProg-Slot\Debug\CProg-Slot.exe
